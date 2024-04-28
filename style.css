@@ -1,0 +1,29 @@
+body {
+    background-color: bisque;
+    text-align: center;
+}
+a{
+    list-style-type: none;
+    color: rgb(75, 12, 12);
+}
+li{
+    
+    display: inline;
+    margin: 10px;
+    color: rgb(255, 244, 248);
+  }
+
+  ul {
+       margin: 0;1
+        padding: 0;
+        font-size: x-large;  
+    }
+a:hover {
+          background-color: rgb(216, 67, 109);
+          }
+a:link {
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+    
+  }
+ 
